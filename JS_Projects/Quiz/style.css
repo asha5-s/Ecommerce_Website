@@ -1,0 +1,17 @@
+body{
+    background: rgb(104,104,219);
+    background: linear-gradient(135deg, rgba(104,104,219,1) 35%, rgba(0,212,255,1) 100%);
+}
+.col-md-7{
+    margin-top: 150 !important;
+    background-color: white;
+    padding: 20px;
+}
+h1{
+    background-color: blue;
+    color: white !important;
+}
+input, label{
+    margin: 10px;
+    font-size: 20px;
+}
